@@ -8,7 +8,7 @@ https://github.com/nessnextone/NessByte_Notice
 
 <div  align="center"><img loading="lazy" decoding="async" src="https://pic02.picgo.win/2023/02/20/63f24c8ef32d9.jpg" width="600" alt="webhooks" align="center"><br><br>NessByte</div>  
 
-- NessByte 控制台：https://panel.nessbyte.work
+- NessByte 控制台：https://panel.nessbyte.site
 
 - Telegram 频道：   https://t.me/NessBytegoo
 
